@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/gojuno/goose"
+	"github.com/gregory-vc/goose"
 
 	// Init DB drivers.
 	_ "github.com/go-sql-driver/mysql"

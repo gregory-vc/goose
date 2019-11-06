@@ -5,7 +5,7 @@ Added new goose commands:
  1. create_db [soft]
  2. drop_db [soft]
 
-# goose [![GoDoc](https://godoc.org/github.com/gojuno/goose?status.svg)](http://godoc.org/github.com/gojuno/goose) [![Build Status](https://travis-ci.org/gojuno/goose.svg?branch=master)](https://travis-ci.org/gojuno/goose)
+# goose [![GoDoc](https://godoc.org/github.com/gregory-vc/goose?status.svg)](http://godoc.org/github.com/gregory-vc/goose) [![Build Status](https://travis-ci.org/gregory-vc/goose.svg?branch=master)](https://travis-ci.org/gregory-vc/goose)
 
 goose is a database migration tool.
 
@@ -13,11 +13,11 @@ You can manage your database's evolution by creating incremental SQL or Go scrip
 
 # Install
 
-    $ go get github.com/gojuno/goose
+    $ go get github.com/gregory-vc/goose
 
 This will install the `goose` binary to your `$GOPATH/bin` directory.
 
-You can also build goose into your own applications by importing `github.com/gojuno/goose/lib/goose`. 
+You can also build goose into your own applications by importing `github.com/gregory-vc/goose/lib/goose`. 
 Documentation is available at [godoc.org](http://godoc.org/bitbucket.org/liamstask/goose/lib/goose).
 
 NOTE: the API is still new, and may undergo some changes.
