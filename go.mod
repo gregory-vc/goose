@@ -1,4 +1,4 @@
-module github.com/gojuno/goose
+module github.com/gregory-vc/goose
 
 require (
 	github.com/cockroachdb/apd v1.1.0 // indirect
