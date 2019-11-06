@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/gojuno/goose"
+	"github.com/gregory-vc/goose"
 	"gopkg.in/yaml.v2"
 
 	// Init DB drivers.
